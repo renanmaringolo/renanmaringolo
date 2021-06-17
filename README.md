@@ -1,5 +1,5 @@
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmaringolo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmaringolo&layout=compact&theme=dracula)](https://github.com/renanmaringolo/github-readme-stats)
 
 
 <!--
