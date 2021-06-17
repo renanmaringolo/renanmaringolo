@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmaringolo&show_icons=true&theme=dracula)
+
 [![Mr.Proença's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanmaringolo)](https://github.com/renanmaringolo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmaringolo&layout=compact)](https://github.com/renanmaringolo/github-readme-stats)
 
